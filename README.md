@@ -1,6 +1,6 @@
-# ETL Pipeline Project
+﻿# ETL Pipeline Project
 
-**Author:** [m-shamim09](https://github.com/m-shamim09)
+**Author:** [agentic-saim09](https://github.com/agentic-saim09)
 
 This project implements an ETL (Extract, Transform, Load) pipeline that extracts transaction data from an Amazon Redshift data warehouse, performs data cleaning and deduplication, and loads the processed data into an Amazon S3 bucket.
 
@@ -72,8 +72,8 @@ This project is licensed under the Apache2.0 License.
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
